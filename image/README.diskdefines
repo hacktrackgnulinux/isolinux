@@ -1,4 +1,4 @@
-#define DISKNAME  HackTrack GNU/Linux 2019.3 Rolling
+#define DISKNAME  HackTrack GNU/Linux 2020.1 Reposition
 #define TYPE  binary
 #define TYPEbinary  1
 #define ARCH  i386
