@@ -1,6 +1,6 @@
 [autorun]
 icon=/isolinux/icon.ico
-label=HackTrack GNU/Linux 2019.3 Rolling
+label=HackTrack GNU/Linux 2020.1 Reposition
 
 [Content]
 MusicFiles=false
