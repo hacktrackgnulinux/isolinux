@@ -14,3 +14,6 @@
 # Licenced          : Copyright 2017-2020 GNU GPLv3
 # Website           : http://www.hacktrack-linux.blogspot.com/
 ###################################################################
+
+Pustaka dalam Penulisan ISOLINUX :
+1. https://wiki.syslinux.org/wiki/index.php?title=Config
